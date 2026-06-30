@@ -136,4 +136,4 @@ for char in str1:
     print(char)
 else:
     print("END")
-        
+               
